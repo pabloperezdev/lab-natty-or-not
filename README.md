@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Parada de Mão vs Plantar Bananeira ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Conhecido popularmente como "plantar bananeira", a parada de mão que é o nome correto do movimento, quando orientado para a IA, ele cria uma imagem de alguem plantando literalmente uma bananeira e não fazendo uma parada de mão
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Meta AI e Chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://chatgpt.com/s/m_68ac61f755908191928cac98ff5f6333)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A forma como é realizada a orientação para a IA pode influenciar significativamente o resultado esperado, por isso os prompts devem ser o mais claro possível para que o retorno seja o mais certo.
 ```
 
 ### Exemplos e Insigths
