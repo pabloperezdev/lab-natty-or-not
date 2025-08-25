@@ -32,7 +32,7 @@ Meta AI e Chat GPT
 Solicitei
 
 ## 🚀 Resultados
-[Apresente os resultados do seu projeto](https://chatgpt.com/s/m_68ac61f755908191928cac98ff5f6333)
+[Apresente os resultados do seu projeto]onda joão dias
 
 ## 💭 Reflexão (Opcional)
 A forma como é realizada a orientação para a IA pode influenciar significativamente o resultado esperado, por isso os prompts devem ser o mais claro possível para que o retorno seja o mais certo.
